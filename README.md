@@ -6,4 +6,6 @@
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/NutritionFacts/Nutrition.html)
 # 4.Coffee House Page
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/CoffeeHouse/coffeehouse.html)
+# 4.Shoes Page (using position concept)
+[Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/ShoesPage/ShoesPageWithPosition.html)
 
