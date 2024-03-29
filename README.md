@@ -5,5 +5,5 @@
 # 3.Nutrition Facts Assignment Page 
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/NutritionFacts/Nutrition.html)
 # 4.Coffee House Page
-[Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/CoffeeHouse/coffeeHouse.html](https://ganesh-patel.github.io/Geekster-Assignment/CoffeeHouse/coffeehouse.html)
+[Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/CoffeeHouse/coffeehouse.html)
 
