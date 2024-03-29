@@ -3,5 +3,5 @@
 # 2.Sample Blog website Assignment 
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/Typography-Assign/Typography.html)
 # 3.Nutrition Facts Assignment Page 
-[Hosted Link](https://ganesh-patel.github.io/Ganesh-Patel/Geekster-Assignment/NutritionFacts/Nutrition.html)
+[Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/NutritionFacts/Nutrition.html)
 
