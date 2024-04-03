@@ -12,3 +12,5 @@
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/ImageGallery/index.html)
 # Grid Assignment Page
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/GridAssignment/Grid.html)
+# YouTube Clone Assignment 
+[Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/Youtube/index.html)
