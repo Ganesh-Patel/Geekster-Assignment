@@ -6,13 +6,13 @@
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/NutritionFacts/Nutrition.html)
 # 4.Coffee House Page
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/CoffeeHouse/coffeehouse.html)
-# 4.Shoes Page (using position concept)
+# 5.Shoes Page (using position concept)
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/ShoesPage/ShoesPageWithPosition.html)
-# Flexbox Photo Gallery App 
+# 6.Flexbox Photo Gallery App 
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/ImageGallery/index.html)
-# Grid Assignment Page
+# 7.Grid Assignment Page
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/GridAssignment/Grid.html)
-# YouTube Clone Assignment 
+# 8.YouTube Clone Assignment 
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/Youtube/index.html)
-# Magzine using Grid 
+# 9.Magzine using Grid 
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/Magzine/index.html)
