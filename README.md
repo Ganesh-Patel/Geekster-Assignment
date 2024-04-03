@@ -14,3 +14,5 @@
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/GridAssignment/Grid.html)
 # YouTube Clone Assignment 
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/Youtube/index.html)
+# Magzine using Grid 
+[Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/Magzine/index.html)
