@@ -1,7 +1,11 @@
+ 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+html{
+    font-size: 63%;
 }
 body{
     background-color: #ECF2F8;
@@ -11,8 +15,10 @@ body{
     width: 100vh;
     display: grid;
     place-content: center;
-    grid-template-columns: 30% 30% 30% 30%;
-    grid-template-rows: 35% 35%;
+    overflow:none;
+    flex-wrap: wrap;
+    grid-template-columns: 30rem 30rem 30rem 30rem;
+    grid-template-rows: 30rem 30rem;
     grid-template-areas: "sec1 sec1 sec2 sec3"
     "sec4 sec5 sec5 sec3";
     grid-gap: 30px;
@@ -71,6 +77,8 @@ body{
 .sec1,.sec2,.sec5,.sec4,.sec3{
     padding: 20px;
     box-sizing: border-box;
+    text-align:justify;
+    object-fit: cover;
 }
 .flex{
     display: flex;
@@ -81,15 +89,23 @@ body{
 }
 .pfirst{
    font-size: 18px;
-   font-weight: 700;
+   font-weight: 600;
    padding: 10px;
+  
 
 }
 .psecond{
     padding: 10px;
    font-size: 16px;
+   opacity: 0.7;
+}
+.position {
+    padding: 5px 5px 0px 5px;
 
 }
-.position{
-    padding: 5px;
+
+.name {
+    padding: 0px 5px 5px 5px;
+
 }
+
