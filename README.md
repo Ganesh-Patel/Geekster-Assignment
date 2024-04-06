@@ -18,3 +18,5 @@
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/Magzine/index.html)
 # 10.Survey For Freecodecamp  
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/SurveyForm/index.html)
+# 11.WeeklyTest4 WebPage using html and css
+[Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/Weeklytest4/index.html)
