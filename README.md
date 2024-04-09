@@ -20,3 +20,5 @@
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/SurveyForm/index.html)
 # 11.WeeklyTest4 WebPage using html and css
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/Weeklytest4/index.html)
+# 12.Animation effect Page using html and css
+[Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/AnimationPage/index.html)
