@@ -22,3 +22,5 @@
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/Weeklytest4/index.html)
 # 12.Animation effect Page using html and css
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/AnimationPage/index.html)
+# 13.Simple Page using html,css and Media Query
+[Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/MediaQuery/index.html)
