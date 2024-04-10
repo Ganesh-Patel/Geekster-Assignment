@@ -1,25 +1,92 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Media Query</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    *{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    html{
+    font-size: 16px;;
+}
+    .container{
+      min-height: 100vh;
+    }
+    .top-container{
+      height: 20vh;
+      background-color: white;
+    }
+    .bottom-container{
+      min-height: 80vh;
+      background-color: #F0C50A;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 100px;
+      justify-content: center;
+    }
+    .bottom-container>div{
+      min-width: 200px;
+      width: 400px;
+    }
+    img{
+      width: 80%;
+      align-items: center;
+      height: 320px;
+      transform: translateY(-40px);
+    }
+
+    h1{
+    font-size: 2.8125rem;
+  }
+  p{
+    margin:25px 0 0 0;
+    font-size: 1.25rem;
+    font-weight:700;
+    line-height: 2.5vh;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  a{
+    color: black;
+  }
+  .btn{
+
+    background-color: black;
+    color: white;
+    padding: 10px 57px 11px 56px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-top: 25px;
+    border: none;
+  }
+  @media only screen and (max-width: 768px) {
+    .Container2 {
+      flex-direction: column;
+      align-items: center;
+    }
+    .container{
+        flex-direction: column;
+      align-items: center;
+    }
+  }
+  </style>
 </head>
 <body>
-  <div class="Container1"></div> 
-  <div class="Container2">
-    <img alt="NicePage.com" src="img.png">
-    <div class="content">
-        <div class="subcontent">
-
+  <div class="container">
+    <div class="top-container"container></div>
+    <div class="bottom-container">
+      <div><img alt="NicePage.com" src="img.png"></div>
+      <div>
         <h1>Certified Coffee Courses</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur<br> adipiscing elit, sed do eiusmod tempor <br>incididunt ut labore et dolore magna aliqua.<br> Ut enim ad minim veniam, quis nostrud<br> exercitation ullamco.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur<br> adipiscing elit, sed do eiusmod tempor <br>incididunt ut labore
+          et dolore magna aliqua.<br> Ut enim ad minim veniam, quis nostrud<br> exercitation ullamco.</p>
         <p id="p2"><span>Image from <a href="#">Freepik</a></span></p>
         <button class="btn">Learn More</button>
-        </div>
+      </div>
     </div>
-  </div>  
-    
+  </div>
 </body>
 </html>
