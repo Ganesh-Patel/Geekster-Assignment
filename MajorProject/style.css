@@ -1,1 +1,41 @@
 @import url(./color.css);
+@import url(./color.css);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 16px;
+}
+.header {
+    height: 100vh;
+    
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url(https://www.free-css.com/assets/files/free-css-templates/preview/page259/aria/assets/images/header-background.jpg) center center no-repeat;
+    background-size: cover;
+}
+nav{
+    height: 8vh;
+    background-color: rgb(8, 67, 67);
+    display: flex;
+    gap: 30rem;
+    justify-content: space-around;
+    align-items: center;
+}
+.right-nav{
+    display: flex;
+    gap: 80px;
+}
+.right-nav>ul{
+    color: white;
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    align-items: center;
+    
+}
+a{
+    text-decoration: none; 
+    color: white;
+}
