@@ -126,5 +126,12 @@ a{
     align-items: center;
     justify-content: center;
 }
+.short-img-container{
+    height: 5vh;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
 
 
