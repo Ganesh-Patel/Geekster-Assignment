@@ -24,7 +24,7 @@
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/AnimationPage/index.html)
 # 13.Simple Page using html,css and Media Query
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/MediaQuery/index.html)
-# 14.WeeklyTest4 WebPage using html and css
+# 14.WeeklyTest6 WebPage using html and css
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/WeeklyTest6-CSS/index.html)
-# 15.WeeklyTest4 WebPage using html and css(@Ganesh-Patel)
+# 15.WeeklyTest6 WebPage using html and css(@Ganesh-Patel)
 [Hosted Link](https://ganesh-patel.github.io/Geekster-Assignment/Weeklytest6-CSS@/index.html)
